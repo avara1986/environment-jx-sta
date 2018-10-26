@@ -10,3 +10,6 @@ dependencies:
 - name: frontapi-ms
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.6
+- name: grouper-ms
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.9
