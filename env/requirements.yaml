@@ -1,4 +1,7 @@
 dependencies:
+- name: kafka
+  repository: http://storage.googleapis.com/kubernetes-charts-incubator
+  version: 0.11.1
 - name: compressor-ms
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
